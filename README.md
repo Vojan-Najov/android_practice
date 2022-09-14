@@ -5,3 +5,6 @@ Training exercises on Android/Kotlin:
 
 2.	DiceRoller
 	Simple one-button app simulated a dice roll.
+
+3.	Lemonade
+	Simple app with other states.
