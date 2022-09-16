@@ -8,3 +8,6 @@ Training exercises on Android/Kotlin:
 
 3.	Lemonade
 	Simple app with other states.
+
+4.	TipTime
+	Layout, xml, editText, viewBinding, MaterialDisign, style, theme
